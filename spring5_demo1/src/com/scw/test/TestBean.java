@@ -33,7 +33,7 @@ public class TestBean {
 //
 //        //2 获取配置创建的对象
 //        Emp emp = context.getBean("emp", Emp.class);
-//
+//#*.xml
 //        emp.add();
 //    }
 
